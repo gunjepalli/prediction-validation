@@ -16,6 +16,8 @@ Average of hours in the window are calculated using the sum and n (count) values
 
 Class HourValues is created  which is used to store sum and count values for each hour
 
+Output values with starting hour,ending hour and average errors over sliding window are written in comparision file.
+
 All these operations are performed in different methods for modularity.
 
 Data processing is done to handle the '|' operator in between the values.
